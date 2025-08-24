@@ -31,5 +31,3 @@ It covers **data cleaning, modeling, and visualization** across multiple tools â
 
 6. **Interactive BI Dashboard (Power BI)**  
    - Combined key insights from Excel, Tableau, and R into a final business-friendly dashboard.
-
-## Repository Structure
